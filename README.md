@@ -1,4 +1,4 @@
-🏋️‍♀️ #Fitness Class Attendance Prediction
+🏋️‍♀️ ## Fitness Class Attendance Prediction
 
 This project aims to solve a common problem faced by fitness clubs:
 "Will a client attend a class they booked?"
