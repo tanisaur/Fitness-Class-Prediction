@@ -17,8 +17,8 @@ The dataset used in this project contains key features related to fitness class 
 | weight	| Client's weight (in kg). |
 | days_before	| Number of days between the booking date and the class date. |
 | day_of_week	| The day of the week the class is scheduled (e.g., Mon, Tue). |
-| time	| The time of the class (morning, afternoon, or evening). |
-| category	| Type of class (e.g., Yoga, Pilates, Cardio). | 
+| time	| The time of the class (AM or PM). |
+| category	| Type of class (e.g., Yoga, HIIT, Cycling). | 
 | attended	| Target variable — whether the client attended the class (1 = Yes, 0 = No). |
 
 ### 📈 Key Insights
